@@ -1,4 +1,5 @@
-# JsProject
+# Javascript Project
+Changing back ground color on click. 
 
 const button=document.querySelectorAll('.button');
 const body=document.querySelector('body');
